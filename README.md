@@ -4,7 +4,7 @@ _____
 >Table of Contents
 - What? [this link](##_What's-Subsocial_)
 - Who? [this link](###Contributors-&-Investors)
-- Why? [this link] (##Social-Ecosystems-of-the-Day:-Censorship,-Monetization,-Siloed)
+- Why? [this link](##Social-Ecosystems-of-the-Day:-Censorship,-Monetization,-Siloed)
 - How? [this link](###Deepdive)
 ____
 
