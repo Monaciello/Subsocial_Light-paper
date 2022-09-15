@@ -4,7 +4,7 @@ _____
 >Table of Contents
 - What? [this link](##_What's-Subsocial_)
 - Who? [this link](###Contributors-&-Investors)
-- Why? [this link](##Social-Ecosystems-of-the-Day:-Censorship,-Monetization,-Siloed.)
+- Why? [this link](##-Social-Ecosystems-of-the-Day:-Censorship,-Monetization,-Siloed.)
 - How? [this link](###Deepdive)
 ____
 
@@ -23,7 +23,7 @@ ___________
 <p> Early contributors helped Subsocial form by particapating in what is called a crowdloan, which is specific to the Polkadot & Kusama parachain ecosystem. A crowdloan is a way for projects to anticipate the support they need to connect to Kusama & Polkadot networks as a parachain. Crowdloan particatipants lock a minimum stake to be bonded to the Kusama or Polkadot and in return are rewarded with the native token of the parachain. Subsocial rewarded early investors by giving them a greater percentage of tokens, they also recieved venture capital from multiple firms. (see below) </p>
 
 
-<img src="images/subsocial.investor.PNG"  width=25% height=25%>
+<img src="images/subsocial.investor.PNG"  width=35% height=35%>
 
 <img src="images/Token_Dist.PNG"  width=30% height=30%>
 
