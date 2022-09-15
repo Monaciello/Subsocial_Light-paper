@@ -1,13 +1,5 @@
 # **The Benefits of Disrutping Social Media Platforms**
 _____
-
->Table of Contents
-- What? [this link](##_What's-Subsocial_)
-- Who? [this link](###Contributors-&-Investors)
-- Why? [this link](##Social-Ecosystems-of-the-Day:-Censorship,-Monetization,-Silos)
-- How? [this link](###Deepdive)
-____
-
 ## _What's Subsocial?_
 ___
 >" Subsocial **ISN'T** a decentralized social network its a platform that allows anyone to build social networks." (subsocial)
