@@ -12,7 +12,7 @@ ____
 ___
 >" Subsocial **ISN'T** a decentralized social network its a platform that allows anyone to build social networks." (subsocial)
 
-<img src="images/Sub.PNG"  width=5% height=5%>
+<img src="images/Sub.PNG"  width=20% height=20%>
 
 <p>Subsocial allows its content creators to create censorship-resistant versions of today’s most used social networks such as Medium, Twitter, Reddit, Instagram, and more. Subsocial is built with IPFS (Interplanetary File System) for decentralized storage and Substrate, a modular framework written in the programming language of rust that prioritizes memory safety and performance. Using Substrate also allows the Subsocial network to connect to the Polkadot and Kusama networks and their next-generation blockchain protocols that host their network of purpose-built parachains. Kusama and Polkadot protocols provide cross-chain interactions and shared security which allows the protocol to scale seamlessly.</p>
 
@@ -25,7 +25,7 @@ ___________
 
 <img src="images/subsocial.investor.PNG"  width=50% height=50%>
 
-<img src="images/Token_Dist.PNG"  width=30% height=30%>
+<img src="images/Token_Dist.PNG"  width=45% height=45%>
 
 
 ## Who built subsocial?
