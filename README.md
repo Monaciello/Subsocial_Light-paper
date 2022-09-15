@@ -4,7 +4,7 @@ _____
 >Table of Contents
 - What? [this link](##_What's-Subsocial_)
 - Who? [this link](###Contributors-&-Investors)
-- Why?[this link](##Social-Ecosystems-of-the-Day:-Censorship,-Monetization,-Siloed)
+- Why? [this link](##Social-Ecosystems-of-the-Day:-Censorship,-Monetization,-Silos)
 - How? [this link](###Deepdive)
 ____
 
@@ -36,7 +36,7 @@ _____________
 
 <p>This is far more than a content-sharing platform with monetization abilities. Subsocial is enabling Social Finance this is where social media meets decentralized finance. Subsocial relieves Creators of having to worry about the platform censoring or even banning them from the platform based on something a centralized algorithm deemed inappropriate. The protocol being a decentralized protocol enables the ability to provide a peer-to-peer economy which means 100% of your donation goes to your favorite content creators with no need for an intermediary platform,  it also avoids having platform users reregister and create multiple accounts resulting in multiple siloed accounts between social networking platforms. Subsoical gives social networking platforms a much-needed reframing by putting self-moderation over censorship and empowering Peer-to-Peer feeless monetization over hefty hosting platform fees, Subsocial remedies closed network effects with what is called a knowledge graph ( think of this as all of your photos, videos, posts, friends, post history) this means no need to repetitively make new accounts when visiting a new site for the first time, your graph follows you due to Kusama’s shared or open network affects a benefit the Web3 protocol Subsocial posessess over modern day social network platforms. </p>
 
-## Social Ecosystems of the Day: Censorship, Monetization, Siloed.
+## Social Ecosystems of the Day: Censorship, Monetization, Silos
 __________
 > 3 problem areas Subsocial looks to correct:
 1. Censorship 
