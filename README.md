@@ -1,6 +1,9 @@
-# **The Benefits of Disrutping Social Media Platforms** //Title of Specific Distruptive Technology Topic
+# **The Benefits of Disrutping Social Media Platforms** 
+<!--Title of Specific Distruptive Technology Topic-->
 _____
-## _What's Subsocial?_ // Curious_Call_to_action
+## _What's Subsocial?_
+
+<!--Curious_Call_to_action-->
 ___
 >" Subsocial **ISN'T** a decentralized social network its a platform that allows anyone to build social networks." (subsocial)
 
