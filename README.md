@@ -6,18 +6,22 @@ _____
 <!--Curious_Call_to_action-->
 ___
 >" Subsocial **ISN'T** a decentralized social network its a platform that allows anyone to build social networks." (subsocial)
-
+<!--Describition of what the technology is not by descibing it's general use case.-->
 <img src="images/Sub.png"  width=20% height=20%>
+
+<!--html image showing emblem of disruptor-->
 
 <p>Subsocial allows its content creators to create censorship-resistant versions of today’s most used social networks such as Medium, Twitter, Reddit, Instagram, and more. Subsocial is built with IPFS (Interplanetary File System) for decentralized storage and Substrate, a modular framework written in the programming language of rust that prioritizes memory safety and performance. Using Substrate also allows the Subsocial network to connect to the Polkadot and Kusama networks and their next-generation blockchain protocols that host their network of purpose-built parachains. Kusama and Polkadot protocols provide cross-chain interactions and shared security which allows the protocol to scale seamlessly.</p>
 
 
+<!--brief overview of what the tech isn't and how it can used, what technologies does it use to accomplish it's Goal or what makes the brand/company different from most.-->
 ### Contributors & Investors
 ___________
 
 <p> Early contributors helped Subsocial form by particapating in what is called a crowdloan, which is specific to the Polkadot & Kusama parachain ecosystem. A crowdloan is a way for projects to anticipate the support they need to connect to Kusama & Polkadot networks as a parachain. Crowdloan particatipants lock a minimum stake to be bonded to the Kusama or Polkadot and in return are rewarded with the native token of the parachain. Subsocial rewarded early investors by giving them a greater percentage of tokens, they also recieved venture capital from multiple firms. (see below) </p>
 
 
+<!--Facts about who contributed to the company's/disruptor's success and what resulted from their contributions.-->
 <img src="images/subsocial.investor.PNG"  width=50% height=50%>
 
 <img src="images/Token_Dist.PNG"  width=45% height=45%>
@@ -31,6 +35,8 @@ _____________
 
 <p>This is far more than a content-sharing platform with monetization abilities. Subsocial is enabling Social Finance this is where social media meets decentralized finance. Subsocial relieves Creators of having to worry about the platform censoring or even banning them from the platform based on something a centralized algorithm deemed inappropriate. The protocol being a decentralized protocol enables the ability to provide a peer-to-peer economy which means 100% of your donation goes to your favorite content creators with no need for an intermediary platform,  it also avoids having platform users reregister and create multiple accounts resulting in multiple siloed accounts between social networking platforms. Subsoical gives social networking platforms a much-needed reframing by putting self-moderation over censorship and empowering Peer-to-Peer feeless monetization over hefty hosting platform fees, Subsocial remedies closed network effects with what is called a knowledge graph ( think of this as all of your photos, videos, posts, friends, post history) this means no need to repetitively make new accounts when visiting a new site for the first time, your graph follows you due to Kusama’s shared or open network affects a benefit the Web3 protocol Subsocial posessess over modern day social network platforms. </p>
 
+<!--Brand Statement-->
+
 ## Social Ecosystems of the Day: Censorship, Monetization, Silos
 __________
 > 3 problem areas Subsocial looks to correct:
@@ -43,9 +49,11 @@ __________
     * Google makes 200 dollars annually per user by selling their data to the highest bidder.
     * _" Youtube monetization model rewards creators with a maximum of $2 - $12 dollars per 1000 views, $120 - $800 per 100,000 views and $1,2000 - $6,000 per 1,000,000 views. "_
 
+<!--List of Inefficiencies the technology attempts to capitalize on.-->
 
 [![README_Subsocial](http://img.youtube.com/vi/58QuLi9ff9g/0.jpg)](http://www.youtube.com/watch?v=58QuLi9ff9g "Open Social Graphs With Subsocial | Polkadot Decoded 2022")
 
+<!--Facts about how technology can and does solve financial inefficiencies.-->
 
 ### Deepdive
 ____________
