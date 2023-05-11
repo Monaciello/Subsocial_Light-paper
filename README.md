@@ -30,10 +30,12 @@ Early contributors helped Subsocial form by participating in crowdloans specific
 ![Token Distribution](images/Token_Dist.PNG)
 
 ## Who built Subsocial?
-
+<img src="images/dappforce.jpg"  width=18% height=18%>
 [Dappforce](https://github.com/dappforce) is the team behind the creation of the Subsocial chain. They were one of many teams that received a Web3 grant to help bootstrap their project.
 
 ## Resources
+
+[![README_Subsocial](http://img.youtube.com/vi/58QuLi9ff9g/0.jpg)](http://www.youtube.com/watch?v=58QuLi9ff9g "Open Social Graphs With Subsocial | Polkadot Decoded 2022")
 
 - [Token Distribution](https://docs.subsocial.network/docs/basics/tokenomics/token-distribution)
 - [Token Economics](https://docs.subsocial.network/docs/basics/tokenomics/token-economics)
