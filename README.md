@@ -31,6 +31,7 @@ Early contributors helped Subsocial form by participating in crowdloans specific
 
 ## Who built Subsocial?
 <img src="images/dappforce.jpg"  width=18% height=18%>
+
 [Dappforce](https://github.com/dappforce) is the team behind the creation of the Subsocial chain. They were one of many teams that received a Web3 grant to help bootstrap their project.
 
 ## Resources
