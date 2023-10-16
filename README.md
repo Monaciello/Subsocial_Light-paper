@@ -1,6 +1,6 @@
 # The Benefits of Disrupting Social Media Platforms
 
-## What's Subsocial?
+## What's Subsocial!?
 
 > Subsocial is a platform that allows anyone to build decentralized social networks.
 
